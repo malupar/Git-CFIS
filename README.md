@@ -1,3 +1,3 @@
-# Te has equivocado de rama
+# Rama de desarrollo en Python
 
-No te apuntes aquí
+Implementa las funciones de multiplicación y división para conseguir que los test pasen.
