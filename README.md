@@ -1,3 +1,3 @@
-# Git-CFIS
+# Te has equivocado de rama
 
-Lista de participantes
+No te apuntes aquí
