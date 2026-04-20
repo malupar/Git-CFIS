@@ -14,6 +14,6 @@ Erik Palberg
 
 Jiayi Wu
 
-lalalalalalala
+el nano es una balalalalala
 
-lolololololo
+lololololo
