@@ -3,9 +3,9 @@ name: Python CI Pipeline
 # Trigger the workflow on push or pull request for the main branch
 on:
   push:
-    branches: [ "python" ]
+    branches: [ "pythonDAVID" ]
   pull_request:
-    branches: [ "python" ]
+    branches: [ "pythonDAVID" ]
 
 jobs:
   build-and-test:
