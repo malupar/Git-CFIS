@@ -2,4 +2,4 @@
 
 ## Lista de participantes
 
-Lucía Aparicio
+Lucía Aparicio 
