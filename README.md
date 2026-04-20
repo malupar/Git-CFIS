@@ -1,3 +1,5 @@
 # Taller Git CFIS
 
-Lista de participantes
+## Lista de participantes
+
+Lucía Aparicio
