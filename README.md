@@ -14,4 +14,4 @@ Erik Palberg
 
 Jiayi Wu
 
-lalalalalalala
+el nano es una bala
