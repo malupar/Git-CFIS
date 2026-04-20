@@ -10,4 +10,6 @@ Marc Pérez
 
 David Denamiel
 
-No debería de ser lo mismo
+Erik Palberg
+
+Jiayi Wu
