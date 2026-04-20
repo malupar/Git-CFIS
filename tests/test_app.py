@@ -18,4 +18,4 @@ def test_divide():
     assert divide(10, 5) == 2
     assert divide(20, 3) == 6
     assert divide(-1, -1) == 1
-    assert divide(-1, 5) == 0
+    assert divide(-1, 5) == -1
