@@ -12,4 +12,6 @@ David Denamiel
 
 Erik Palberg
 
+Jiayi Wu
+
 No debería de ser lo mismo
